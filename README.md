@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <h1>
+    Currently working on Frantic
+  </h1>
+  <p>Blah blah </p>
+</div>
