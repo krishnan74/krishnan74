@@ -27,12 +27,12 @@ Here are some ideas to get you started:
   </p>
  <h2>Skills</h2>
   <ul>
-      <li>Web Development (HTML, CSS, JavaScript)</li>
-      <li>Python, Java</li>
-      <li>Database Management (MySQL, MongoDB)</li>
+      <li>REACT JS, NEXT JS, TailwindCSS</li>
+      <li>NodeJS, MySQL</li>
+      <li>Unity, Blender</li>
   </ul>
 <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs" alt="Your Name's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnan74&show_icons=true&hide=contribs,prs" alt="Your Name's GitHub Stats">
 <h2>Top Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan74&layout=compact" alt="Top Languages">
 </div>
