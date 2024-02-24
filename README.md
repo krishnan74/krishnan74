@@ -18,14 +18,22 @@ Here are some ideas to get you started:
     
 
 <div>
-  <h1>Hello, I'm Your Name 👋</h1>
-  <p>I'm a passionate developer who loves coding and exploring new technologies.</p>
+  <h1>Hello, I'm Divyakrishnan 👋</h1>
+  <p>Highly adaptable Full Stack Developer and Mobile App Developer with a discerning eye for design and
+aesthetics. Proficient in various programming languages and frameworks, lead and collaborated with
+diverse teams. Enthusiastic and creative-minded developer known for rapid learning and innovation.
+</p>
   <p>
-    <a href="https://www.linkedin.com/in/yourname/" target="_blank">LinkedIn</a> |
-    <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> |
-    <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+    <a href="https://www.linkedin.com/in/divyakrishnan-r/" target="_blank">LinkedIn</a> |
+    <a href="https://github.com/krishnan74" target="_blank">GitHub</a>
   </p>
- <h2>Skills</h2>
+    <h2>Programming Languages</h2>
+  <ul>
+      <li>Javascript, Java, Python,
+Solidity, Dart, C#.
+</li>
+  </ul>
+ <h2>Technologies</h2>
   <ul>
       <li>REACT JS, NEXT JS, Flutter, TailwindCSS</li>
       <li>NodeJS, MongoDB, Express, Solidity</li>
