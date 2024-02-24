@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   </p>
  <h2>Skills</h2>
   <ul>
-      <li>REACT JS, NEXT JS, TailwindCSS</li>
-      <li>NodeJS, MySQL</li>
-      <li>Unity, Blender</li>
+      <li>REACT JS, NEXT JS, Flutter, TailwindCSS</li>
+      <li>NodeJS, MongoDB, Express, Solidity</li>
+      <li>Unity, Blender, Figma</li>
   </ul>
 <h2>GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=krishnan74&show_icons=true&hide=contribs,prs" alt="Your Name's GitHub Stats">
