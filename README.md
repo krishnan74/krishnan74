@@ -1,17 +1,20 @@
-<h1 align="">Hello, I'm Divyakrishnan 👋</h1>
+<h1 style="color:#F7DF1E; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, I'm Divyakrishnan 👋</h1>
 
-<p align="">
+<p style="font-size: 18px;">
   <strong>Highly adaptable Full Stack Developer and Mobile App Developer</strong> with a discerning eye for design and aesthetics. Proficient in various programming languages and frameworks, I've led and collaborated with diverse teams. Known for rapid learning and innovation, I bring enthusiasm and creativity to every project.
 </p>
 
-<p >
+<p style="font-size: 18px;">
   💼 I'm working at <strong>CraftedWithLove Private Limited</strong> as a <strong>Software Development Intern</strong>.
 </p>
 
-<p>
+<p style="font-size: 18px;">
     🔭 I’m currently working on <strong>Cast-AI</strong> and <strong>FleetIQ</strong>.
 </p>
-<p>🌱 I’m currently learning <strong>ZK Proofs</strong> using the <strong>Mina Protocol</strong></p>
+<p style="font-size: 18px;">
+    🌱 I’m currently learning <strong>ZK Proofs</strong> using the <strong>Mina Protocol</strong>.
+</p>
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/divyakrishnan-r/" target="_blank">
@@ -20,11 +23,20 @@
   <a href="https://github.com/krishnan74" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://x.com/Krishna29371748" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/krixxnan_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://discord.com/users/krish74" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
 ---
 
-<h2 align="center">🛠 Programming Languages & Technologies</h2>
+<h2 align="center" style="color:#61DAFB; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🛠 Programming Languages & Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -36,7 +48,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-<h3 align="center">Frameworks & Tools</h3>
+<h3 align="center" style="color:#61DAFB; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Frameworks & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -51,21 +63,18 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Farcaster-363636?style=for-the-badge" alt="Farcaster Frames">
+  
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnan74&show_icons=true&theme=radical&hide=contribs,prs" alt="Divyakrishnan's GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan74&layout=compact&theme=radical" alt="Top Languages">
+<div style="display:flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnan74&show_icons=true&theme=radical&hide=contribs,prs" alt="Divyakrishnan's GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan74&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
 ---
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
   <strong>💬 Feel free to reach out and connect with me!</strong>
 </p>
