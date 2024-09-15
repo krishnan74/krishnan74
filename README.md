@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center" style="color:#61DAFB; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🛠 Programming Languages & Technologies</h2>
+<h2 align="center" style="color:#61DAFB; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🛠 Programming Languages </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
