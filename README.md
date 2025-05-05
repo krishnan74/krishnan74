@@ -5,10 +5,6 @@
 </p>
 
 <p style="font-size: 18px;">
-  💼 I'm working at <strong>CraftedWithLove Private Limited</strong> as a <strong>Software Development Intern</strong>.
-</p>
-
-<p style="font-size: 18px;">
     🔭 I’m currently working on <strong>Cast-AI</strong> and <strong>FleetIQ</strong>.
 </p>
 <p style="font-size: 18px;">
