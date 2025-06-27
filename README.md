@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=krishnna74)
 <h1 style="color:#F7DF1E; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hello, I'm Divyakrishnan 👋</h1>
 
 <p style="font-size: 18px;">
